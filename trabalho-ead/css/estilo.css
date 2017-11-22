@@ -1,0 +1,52 @@
+body {
+  margin: 10px auto;
+  font-family: Calibri;
+}
+
+table {
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 5px;
+  font-size: 3em;
+}
+
+.destaqueColuna {
+  color: green;
+  font-size: 1.3em;
+  background-color: cyan;
+}
+
+.tituloDestacado {
+  color: red;
+}
+
+.maiusculas {
+  text-transform: uppercase;
+}
+
+.formulario {
+  margin: 20px;
+}
+
+.novoBackground {
+  background-color: gray;
+}
+
+.novaCorTexto {
+  color: rgba(192, 137, 19, 0.945);
+}
+
+#chkTexto {
+  font-size: 20px;
+}
+
+.textoMaior {
+  font-size: 4em;
+}
+.mudaHead {
+  font-style: italic;
+}
